@@ -1,4 +1,4 @@
-cd ../
+cd ..
 
 pip freeze > requirements.txt
 git add .
